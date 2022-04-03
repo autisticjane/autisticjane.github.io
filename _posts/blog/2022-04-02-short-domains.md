@@ -2,7 +2,7 @@
 layout: post
 title: "Short domains as a form of branding"
 permalink: /short-domains/
-date: '2022-04-02'
+date: '2022-03-28'
 tags: [domains]
 subtitle: "Using my domain addiction for good"
 ---
