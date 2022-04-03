@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Domains
-permalink: /domains/
+permalink: /d/
 ---
 
 A long list, but just the ones that matter.
