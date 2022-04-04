@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "About Izzy Lively"
+title: "About"
 permalink: /about/
 ---
-
 Hej, I’m Izzy. I take naps, walk my cat, and "do web stuff" as my family would call it. This is my special interest, and I do mean that as an actually autistic person.
 
 This site as been PHP and is now static HTML via Github Pages, with the recent addition of Jekyll.
