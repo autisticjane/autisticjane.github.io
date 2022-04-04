@@ -7,7 +7,7 @@ permalink: /d/
 A long list, but just the ones that matter.
 
 | # | Purpose |
-| --- | --- |
+| ---: | :--- |
 | 10 | name/identity |
 | 05 | domain flipping |
 | 01 | special interest |
