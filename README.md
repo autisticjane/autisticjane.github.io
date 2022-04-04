@@ -1,6 +1,14 @@
 # easier way to static
 I didn't want to open FTP or cPanel File Manager every time I decided to update izzy.im. Also basically free hosting.
 
+## to-do
+- [ ] about.md
+- [ ] 404.md
+- [ ] theme - css
+- [ ] theme - templates
+- [ ] index.md
+- [ ] cleanup unnecessary files
+
 ## credits
 | what  | where |
 | ---   | ---   |
