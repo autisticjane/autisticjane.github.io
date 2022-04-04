@@ -7,6 +7,8 @@ I didn't want to open FTP or cPanel File Manager every time I decided to update 
 - [ ] theme - css
 - [ ] theme - templates
 - [ ] index.md
+- [ ] media.md
+- [ ] media template
 - [ ] cleanup unnecessary files
 
 ## credits
