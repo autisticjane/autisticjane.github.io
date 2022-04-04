@@ -6,6 +6,15 @@ permalink: /d/
 
 A long list, but just the ones that matter.
 
+| # | Purpose |
+| --- | --- |
+| 10 | name/identity |
+| 05 | domain flipping |
+| 01 | special interest |
+| 07 | mer.media |
+| 12 | idk/other |
+| 34+ | total |
+
 ## Current domains
 * [blogprompt.xyz](//blogprompt.xyz)
 * [buymeapretzel.com](//buymeapretzel.com)
