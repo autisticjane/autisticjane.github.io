@@ -22,7 +22,7 @@ I take on a limited number of clients per month at a rate of $100/ea. and a guar
 * Services are delivered digitally.
 * Services are delivered in English only.
 * Services will not be delivered rapidly upon request, even if larger compensation is offered.
-* Services may be delayed 24-72 hours in the event of an autism meltdown, which requires me to rest properly and practice self-care so as to not have the functioning capacity of a potato. Considering my freelance writing niche, this should be expected.
+* Services **may be delayed 24-72 hours in the event of an autism meltdown**, which requires me to rest properly and practice self-care so as to not have the functioning capacity of a potato. Considering my freelance writing niche, this should be expected.
 * I reserve the right to refuse projects for any reason at my own discretion, undisclosed.
-* I do not offer pro bono or free work unless I've approached a client with this opportunity.
+* **I do not offer pro bono or free work** unless I've approached a client with this opportunity.
 * I reserve the right to update this policy without notice.
