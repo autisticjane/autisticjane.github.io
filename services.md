@@ -20,7 +20,10 @@ If I am ghostwriting and you decide to give me a byline, the following terms app
 ## Roundup injection
 I will add your relevant blog posts to blog roundup posts in Facebook groups. You will receive access to a spreadsheet of what your site was added to so you can keep up.
 
-I take on a limited number of clients per month at a rate of $100/ea. and a guaranteed minimum of 50 links. Link submission depends highly on your blog's content.
+I take on a limited number of clients per month at a rate of $100/ea. and a guaranteed minimum of 50 links. Link submission possibility depends highly on your blog's content. **I will also provide a list of roundups you did not have content for.**
+
+**Must be paid in full upfront.** No deposit options available unless reserving multiple months in advance, at which point half would be due before the first month and the remainder would be due halfway through term.
+* 10% off for 3-month term ($270)
 
 ## Terms
 * **No refunds.**
