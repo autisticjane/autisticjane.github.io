@@ -6,7 +6,7 @@ title: 'Services'
 blah blah words
 
 ## Freelance writing
-I write articles in the autism niche for parents. My rate is $0.085 USD per word. I do **not** offer rapid turnarounds on account of being an *actually autistic* individual.
+I write articles in the autism niche for parents. My rate is $0.08 USD per word. I do **not** offer rapid turnarounds on account of being an *actually autistic* individual.
 
 If I am ghostwriting and you decide to give me a byline, the following terms apply per piece:
 1. Do not add any links pertaining to Autism Speaks, *Age of Autism*, or other organizations that I tell you are harmful **unless I link to them myself**.
