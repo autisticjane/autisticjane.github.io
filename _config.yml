@@ -18,9 +18,6 @@ instagram_username: "thejanelively"
 pinterest_username: "thejanelively"
 tiktok_username: "izzylively"
 
-- name: Tag Page Generator for Jekyll Blogs
-  uses: hendrixjoseph/jekyll-tag-page-generator-action@v1.01
-
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
