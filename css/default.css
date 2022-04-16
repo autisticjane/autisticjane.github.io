@@ -11,3 +11,34 @@
 @import 'css/images.css';
 @import 'css/navigation.css';
 @import 'css/skip-link.css';
+
+:root{
+  --font-color:#333;
+  --font-family:'Poppins', sans-serif;
+  --font-line-height:1.6
+}
+
+*{
+  box-sizing:border-box
+}
+
+html{
+  color: var(--font-color);
+  font-family: var(--font-family);
+  font-weight:300
+}
+
+body{
+  line-height: var(--font-line-height);
+  margin:0 auto;
+  padding:auto 1vw;
+}
+
+h1,
+h2{
+  font-weight:700
+}
+h3,
+h4{
+  font-weight:500
+}
