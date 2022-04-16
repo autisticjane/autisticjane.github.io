@@ -5,7 +5,7 @@ timezone: America/Chicago
 permalink: pretty
 collections:
   media:
-    output: true
+    output: false
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -17,6 +17,9 @@ linkedin_username: "janelively"
 instagram_username: "thejanelively"
 pinterest_username: "thejanelively"
 tiktok_username: "izzylively"
+
+- name: Tag Page Generator for Jekyll Blogs
+  uses: hendrixjoseph/jekyll-tag-page-generator-action@v1.01
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
