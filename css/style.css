@@ -9,47 +9,48 @@
 @import 'css/override.css';
 
 :root{
-  --animation-duration:.2s;
-  --accent-color:#46bb8b; /* green */
-  --border-radius:50%;
-  --border-radius-small:.25rem;
-  --font-color:#333;
-  --font-family:'Poppins', sans-serif;
-  --font-highlight-color:yellow; /* <mark> text */
-  --font-line-height:1.6;
-  --link-color: var(--accent-color);
-  --link-focus-bg: rgba(212,212,212,.4); /* light grey */
-  --link-hover: var(--font-color); /* links match font color when hovered */
+	--animation-duration:.2s;
+	--accent-color:#46bb8b; /* green */
+	--border-radius:50%;
+	--border-radius-small:.25rem;
+	--font-color:#333;
+	--font-family:'Poppins', sans-serif;
+	--font-highlight-color:yellow; /* <mark> text */
+	--font-line-height:1.6;
+	--link-color: var(--accent-color);
+	--link-focus-bg: rgba(212,212,212,.4); /* light grey */
+	--link-hover: var(--font-color); /* links match font color when hovered */
 }
 
 *{
-  box-sizing:border-box
+	box-sizing:border-box
 }
 
 html{
-  color: var(--font-color);
-  font-family: var(--font-family);
-  font-weight:300
+	color: var(--font-color);
+	font-family: var(--font-family);
+	font-weight:300
 }
 
 /* typography */
 
 body{
-  line-height: var(--font-line-height);
-  margin:0
+	font-size:1.25rem;
+	line-height: var(--font-line-height);
+	margin:0;
 }
 
 h1,
 h2{
-  font-weight:700
+	font-weight:700
 }
 h3,
 h4{
-  font-weight:500
+	font-weight:500
 }
 h5,
 h6{
-  font-weight:300
+	font-weight:300
 }
 
 h1{font-size:2.5rem}
@@ -64,9 +65,9 @@ h6{font-size:1.4rem}
 .header,
 .content,
 .footer{
-  margin:0 auto;
-  width:90;
-  max-width:675px
+	margin:0 auto;
+	width:90;
+	max-width:675px
 }
 
 /* meta */
