@@ -13,9 +13,17 @@
 @import 'css/skip-link.css';
 
 :root{
+  --animation-duration:.2s;
+  --accent-color:#46bb8b; /* green */
+  --border-radius:50%;
+  --border-radius-small:.25rem;
   --font-color:#333;
   --font-family:'Poppins', sans-serif;
-  --font-line-height:1.6
+  --font-highlight-color:yellow; /* <mark> text */
+  --font-line-height:1.6;
+  --link-color: var(--accent-color);
+  --link-focus-bg: rgba(212,212,212,.4); /* light grey */
+  --link-hover: var(--font-color); /* links match font color when hovered */
 }
 
 *{
@@ -28,10 +36,11 @@ html{
   font-weight:300
 }
 
+/* typography */
+
 body{
   line-height: var(--font-line-height);
-  margin:0 auto;
-  padding:auto 1vw;
+  margin:0
 }
 
 h1,
@@ -41,4 +50,50 @@ h2{
 h3,
 h4{
   font-weight:500
+}
+h5,
+h6{
+  font-weight:300
+}
+
+h1{font-size:2.5rem}
+h2{font-size:2.3rem}
+h3{font-size:2rem}
+h4{font-size:1.8rem}
+h5{font-size:1.6rem}
+h6{font-size:1.4rem}
+
+/* containers */
+
+.header,
+.content,
+.footer{
+  margin:0 auto;
+  width:90;
+  max-width:675px
+}
+
+/* meta */
+.header{
+	text-align:center;
+}
+.logo{
+	border-radius: var(--border-radius);
+	margin:.5rem;
+	text-align:center;
+	width:200px;
+}
+.site-name{
+	font:600 2rem var(--font-family-heading);
+}
+.site-name--link{
+	color: var(--accent-color);
+	text-decoration:none
+}
+.site-name--link:hover{
+	color: var(--font-color)
+}
+.site-description{
+	color: rgb(118,118,118);
+	border-radius: var(border-radius-small)
 }
