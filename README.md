@@ -2,11 +2,11 @@
 I didn't want to open FTP or cPanel File Manager every time I decided to update izzy.im. Also basically free hosting.
 
 ## to-do
-- [ ] about.md
-- [ ] 404.md
+- [x] about.md
+- [x] 404.md
 - [ ] theme - css
 - [ ] theme - templates
-- [ ] index.md
+- [x] index.md
 - [ ] media.md
 - [ ] media template
 - [ ] cleanup unnecessary files
