@@ -1,0 +1,53 @@
+:root{
+  --link-color-dark-mode: #ff87b3;
+  --link-color-dark-mode-secondary: #efefef;
+  --link-color-hover: #2f3daa;
+  --link-color-hover-dark-mode: #8392ff;
+  --link-color-focus: #e94582;
+  --link-background-color-hover: #efeff9;
+  --link-background-color-hover-dark-mode: #342a44;
+  --link-background-color-focus: #eee;
+  --link-background-color-focus-dark-mode: var(--link-background-color-hover-dark-mode);
+  --link-border-color-focus: #ffa0c4;
+  --link-border-color-focus-dark-mode: #f9dce7;
+  --text-highlight-color: #efeff9;
+}
+
+mark {
+    background-color: var(--link-background-color-hover-dark-mode);
+    color: var(--link-color-dark-mode-secondary);
+}
+
+a{
+    color: var(--link-color);
+    font-weight: 600;
+    transition: background-color var(--animation-duration) ease-out;
+}
+
+a:hover{
+    background-color: var(--link-background-color-hover);
+    color: var(--link-color-hover);
+    text-decoration: none;
+}
+
+a:focus {
+    background-color: var(--link-background-color-focus);
+    color: var(--link-color-focus);
+    outline: 2px solid var(--link-border-color-focus);
+}
+
+a{
+    color: var(--link-color-dark-mode);
+}
+
+a:hover{
+    background-color: var(--link-background-color-hover-dark-mode);
+    color: var(--link-color-hover-dark-mode);
+}
+
+a:focus{
+	background-color: var(--link-background-color-focus-dark-mode);
+    box-shadow: 0 0 0 2px var(--link-border-color-focus-dark-mode);
+    outline: 0;
+    text-decoration: none;
+}
