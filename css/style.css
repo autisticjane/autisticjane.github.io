@@ -20,8 +20,10 @@
 	--font-highlight-color:yellow; /* <mark> text */
 	--font-line-height:1.6;
 	--link-color: #ff87b3;
-	--link-focus-bg: #8392ff; /* light grey */
-	--link-hover: #8392ff; /* links match font color when hovered */
+	--link-color-focus:#e94582;
+	--link-color-hover: #efeff9;
+	--link-background-color-hover: #8392ff;
+	--link-border-color-focus: #f9dce7;
 }
 
 *{
@@ -64,17 +66,22 @@ h4{font-size:1.8rem}
 h5{font-size:1.6rem}
 h6{font-size:1.4rem}
 
-a{
-	color:var(--link-color);
-	text-decoration:none;
-	transition: var(--animation-duration) ease-out;
+a {
+	color: var(--link-color);
+	font-weight: 600;
+	transition: background-color var(--animation-duration) ease-out;
 }
-a:focus{
-	background: var(--link-focus-bg);
-	outline:2px solid #f9dce7;
+
+a:hover {
+	background-color: var(--link-background-color-hover);
+	color: var(--link-color-hover);
+	text-decoration: none;
 }
-a:hover{
-	color:var(--link-hover);
+
+a:focus {
+	background-color: var(--link-background-color);
+	color: var(--link-color-focus);
+	outline: 2px solid var(--link-border-color-focus);
 }
 
 /* containers */
