@@ -15,7 +15,7 @@
 	--accent-color:#ff87b3; /* pink */
 	--border-radius:50%;
 	--border-radius-small:.25rem;
-	--font-color:#333;
+	--font-color:#fafafa;
 	--font-family:'Poppins', sans-serif;
 	--font-highlight-color:yellow; /* <mark> text */
 	--font-line-height:1.6;
@@ -29,6 +29,7 @@
 }
 
 html{
+	background:#1d1727;
 	color: var(--font-color);
 	font-family: var(--font-family);
 	font-weight:300
