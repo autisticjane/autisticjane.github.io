@@ -19,9 +19,9 @@
 	--font-family:'Poppins', sans-serif;
 	--font-highlight-color:yellow; /* <mark> text */
 	--font-line-height:1.6;
-	--link-color: var(--accent-color);
-	--link-focus-bg: rgba(212,212,212,.4); /* light grey */
-	--link-hover: var(--font-color); /* links match font color when hovered */
+	--link-color: #ff87b3;
+	--link-focus-bg: #8392ff; /* light grey */
+	--link-hover: #8392ff; /* links match font color when hovered */
 }
 
 *{
@@ -70,7 +70,8 @@ a{
 	transition: var(--animation-duration) ease-out;
 }
 a:focus{
-	background: var(--link-focus-bg)
+	background: var(--link-focus-bg);
+	outline:2px solid #f9dce7;
 }
 a:hover{
 	color:var(--link-hover);
