@@ -17,3 +17,4 @@ I...
 
 ## Live projects
 🖊 [blog prompt randomizer:](//blogprompt.xyz) refresh for a new blog prompt.
+📄 [izzy.im:](https://github.com/izzylively/izzylively.github.io/) github pages + jekyll
