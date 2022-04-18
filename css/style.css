@@ -60,6 +60,15 @@ h4{font-size:1.8rem}
 h5{font-size:1.6rem}
 h6{font-size:1.4rem}
 
+a{
+	color:var(--link-color);
+	text-decoration:none;
+	transition: var(--animation-duration) ease-out;
+}
+a:focus{
+	background: var(--link-focus-bg)
+}
+
 /* containers */
 
 .header,
