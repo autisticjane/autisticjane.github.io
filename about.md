@@ -11,9 +11,9 @@ This site as been PHP and is now static HTML via Github Pages, with the recent a
 
 I...
 * [blog](//izzy.blog).
-* [insta](//instagram.com/thejanelively/).
-* [tok](//tiktok.com/@izzylively/).
-* [tweet](//twitter.com/thejanelively/).
+* [insta](//instagram.com/xoizzyco/).
+* [tok](//tiktok.com/@xoizzyco/).
+* [tweet](//twitter.com/xoizzyco/).
 
 ## Live projects
 🖊 [blog prompt randomizer:](//blogprompt.xyz) refresh for a new blog prompt.
