@@ -1,5 +1,6 @@
 ---
 layout: default
+title: XO, IZZY
 ---
 
 # XO, IZZY
