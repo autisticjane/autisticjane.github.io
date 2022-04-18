@@ -6,9 +6,9 @@
 
 @charset 'UTF-8';
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
-@import 'css/code.css';
-@import 'css/menus.css';
-@import 'css/override.css';
+@import 'code.css';
+@import 'menus.css';
+@import 'override.css';
 
 :root{
 	--animation-duration:.2s;
