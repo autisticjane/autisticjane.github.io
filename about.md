@@ -10,11 +10,14 @@ My cat, Galaxy, is my baby. I'm definitely [alloparenting my pet](https://www.sc
 This site as been PHP and is now static HTML via Github Pages, with the recent addition of Jekyll. I intend to leave it here indefinitely.
 
 I...
-* [blog](//izzy.blog).
+* blog @ [xoizzy.co](//xoizzy.co) &amp; [izzy.blog](//izzy.blog).
 * [insta](//instagram.com/xoizzyco/).
 * [tok](//tiktok.com/@xoizzyco/).
 * [tweet](//twitter.com/xoizzyco/).
 
 ## Live projects
 🖊 [blog prompt randomizer:](//blogprompt.xyz) refresh for a new blog prompt.
+
 📄 [izzy.im:](https://github.com/izzylively/izzylively.github.io/) github pages + jekyll
+
+🥨 [xo, izzy:](https://xoizzy.co) neurodivergent lifestyle blog
