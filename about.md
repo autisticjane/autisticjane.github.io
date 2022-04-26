@@ -10,7 +10,7 @@ My cat, Galaxy, is my baby. I'm definitely [alloparenting my pet](https://www.sc
 This site as been PHP and is now static HTML via Github Pages, with the recent addition of Jekyll. I intend to leave it here indefinitely.
 
 I...
-* blog @ [xoizzy.co](//xoizzy.co) &amp; [izzy.blog](//izzy.blog).
+* [blog](//xoizzy.co) & [ramble](//izzy.blog).
 * [insta](//instagram.com/xoizzyco/).
 * [tok](//tiktok.com/@xoizzyco/).
 * [tweet](//twitter.com/xoizzyco/).
