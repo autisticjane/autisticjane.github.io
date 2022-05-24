@@ -3,8 +3,10 @@ layout: main
 title: Izzy Lively
 ---
 # Izzy Lively
-I'm Izzy, an autistic content creator currently navigating autistic burnout.
+
+I'm Izzy, an autistic content creator currently navigating autistic burnout. You might also know me as Jane Lively.
 ![Me, standing in front of a door and eyes looking up at an angle](/images/selfie-me-2022-05-10.jpg)
+
 ## What I'm doing now...
 * freelance writing -- [contact me](https://xoizzy.co/contact/) ([public samples](/tags/#writing-samples/); ask for non-public samples)
 * stimming freely, eating executive dysfunction meals -- typical [autism burnout recovery things](https://xoizzy.co/autism-burnout-recovery/)
@@ -15,5 +17,4 @@ I'm Izzy, an autistic content creator currently navigating autistic burnout.
 * managing my life via bullet journaling
 
 <p class="dots">&hellip;</p>
-You might also know me as Jane Lively.
 ([source](//github.com/izzylively/izzylively.github.io))
