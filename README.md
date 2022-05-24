@@ -20,7 +20,8 @@ I didn't want to open FTP or cPanel File Manager every time I decided to update 
 | blog-aware static site system | [jekyll](https://jekyllrb.com/) |
 | jekyll  + templates | [chad baldwin](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html) |
 | tags page generator | [hendrixjoseph](https://github.com/marketplace/actions/tag-page-generator-for-jekyll-blogs) |
-| color scheme | [izzy.blog](//izzy.blog) dark mode by [georgie](//hey.georgie.nu)
+| color scheme | [izzy.blog](//izzy.blog) dark mode by [georgie](//hey.georgie.nu)|
+| now page | [nownownow.com](https://nownownow.com/)|
 
 ----
 
