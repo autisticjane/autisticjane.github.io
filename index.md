@@ -18,4 +18,4 @@ I'm Izzy, an autistic content creator currently navigating autistic burnout. You
 * managing my life via bullet journaling
 
 <p class="dots">&hellip;</p>
-([source](//github.com/izzylively/izzylively.github.io))
+([246+ commits](//github.com/izzylively/izzylively.github.io))
