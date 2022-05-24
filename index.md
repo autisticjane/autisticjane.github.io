@@ -5,6 +5,7 @@ title: Izzy Lively
 # Izzy Lively
 
 I'm Izzy, an autistic content creator currently navigating autistic burnout. You might also know me as Jane Lively.
+
 ![Me, standing in front of a door and eyes looking up at an angle](/images/selfie-me-2022-05-10.jpg)
 
 ## What I'm doing now...
