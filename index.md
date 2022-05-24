@@ -14,7 +14,7 @@ I'm Izzy, an autistic content creator currently navigating autistic burnout. You
 * building a new lifestyle blog, [XO, IZZY](https://xoizzy.co/)
 * watching my [personal blog](https://izzy.blog/) grow by the thousand in sessions each month (thank you SEO)
 * handing around bookstagram [@pawsitivelybooks](//instagram.com/pawsitivelybooks/)
-* posting autism content on TikTok [@xoizzyco](//tiktok.com/@xoizzyco)
+* posting autism content on TikTok [@xoizzyco](//tiktok.com/@xoizzyco/)
 * managing my life via bullet journaling
 
 <p class="dots">&hellip;</p>
