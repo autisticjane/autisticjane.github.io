@@ -1,5 +1,6 @@
 ---
 layout: main
+title: Izzy Lively
 ---
 # Izzy Lively
 I'm Izzy, an autistic content creator currently navigating autistic burnout.
@@ -14,4 +15,5 @@ I'm Izzy, an autistic content creator currently navigating autistic burnout.
 * managing my life via bullet journaling
 
 <p class="dots">&hellip;</p>
+You might also know me as Jane Lively.
 ([source](//github.com/izzylively/izzylively.github.io))
