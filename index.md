@@ -4,7 +4,7 @@ title: Izzy Lively
 ---
 # Izzy Lively
 
-I'm Izzy, an autistic content creator currently navigating autistic burnout. You might also know me as Jane Lively.
+I'm Izzy, an autistic content creator currently riding the autistic burnout roller coaster. You might also know me as Jane Lively.
 
 ![Me, standing in front of a door and eyes looking up at an angle](/images/selfie-me-2022-05-10.jpg)
 
@@ -16,6 +16,7 @@ I'm Izzy, an autistic content creator currently navigating autistic burnout. You
 * handing around bookstagram [@pawsitivelybooks](//instagram.com/pawsitivelybooks/)
 * posting autism content on TikTok [@xoizzyco](//tiktok.com/@xoizzyco/)
 * managing my life via bullet journaling
+* learning stop motion animation
 
 <p class="dots">&hellip;</p>
 ([246+ commits](//github.com/izzylively/izzylively.github.io))
