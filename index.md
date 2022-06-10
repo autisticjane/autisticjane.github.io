@@ -11,6 +11,7 @@ I'm Izzy, an autistic content creator currently riding the autistic burnout roll
 ## What I'm doing now...
 * freelance writing -- [contact me](https://xoizzy.co/contact/) ([public samples](/tags/#writing-samples/); ask for non-public samples)
 * stimming freely, eating executive dysfunction meals -- typical [autism burnout recovery things](https://xoizzy.co/autism-burnout-recovery/)
+* seeking to reduce the double empathy problem via [Define Typical](//definetypical.com)
 * building a new lifestyle blog, [XO, IZZY](https://xoizzy.co/)
 * watching my [personal blog](https://izzy.blog/) grow by the thousand in sessions each month (thank you SEO)
 * hanging around bookstagram [@pawsitivelybooks](//instagram.com/pawsitivelybooks/)
@@ -19,4 +20,4 @@ I'm Izzy, an autistic content creator currently riding the autistic burnout roll
 * learning stop motion animation
 
 <p class="dots">&hellip;</p>
-([246+ commits](//github.com/izzylively/izzylively.github.io))
+([249+ commits](//github.com/izzylively/izzylively.github.io))
