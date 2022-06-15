@@ -8,7 +8,7 @@ title: Izzy Lively
 **github:** [izzylively](https://github.com/izzylively/)<br />
 **website:** [izzy.blog](https://izzy.blog)
 
-I'm Izzy Lively, a freelancer and neurodivergent content creator from Kaufman, TX.
+I'm Izzy Lively, a freelancer and neurodivergent content creator from Kaufman, TX. I'm the "queen of short domains".
 
 ## Editing
 Apart from high school students' essays, I have edited *[Tom and Geraldene](https://www.goodreads.com/book/show/27853163-tom-and-geraldene)*.
