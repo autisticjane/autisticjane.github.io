@@ -21,12 +21,7 @@
 	--font-family:'Poppins', sans-serif;
 	--font-highlight-color: #FBCB0A; /* <mark> text */
 	--font-line-height:1.8;
-	--link-color: #C70A80;
-	--link-color-focus:#e94582;
-	--link-color-hover: #efeff9;
-	--link-background-color-hover: #8392ff;
-	--link-border-color-focus: #f9dce7;
-	--color-heading: #590696
+	--color-heading: #37E2D5
 }
 
 *{
