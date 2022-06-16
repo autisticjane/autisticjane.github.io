@@ -15,6 +15,7 @@ a{
 }
 
 a:hover{
+	background-color: var(--link-background-color-hover);
 	color: var(--link-color-hover);
 	text-decoration: none;
 }
