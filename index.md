@@ -8,9 +8,9 @@ title: Izzy Lively
 **github:** [izzylively](https://github.com/izzylively/)<br />
 **website:** [izzy.blog](https://izzy.blog)
 
-I'm Izzy Lively, a freelance writer and neurodivergent content creator from Kaufman, TX. I'm the "queen of [short domains](/domains/")". I helped edited *[Tom and Geraldene](https://www.goodreads.com/book/show/27853163-tom-and-geraldene)*.
+I'm Izzy Lively, a freelance writer and neurodivergent content creator from Kaufman, TX. I'm the "queen of [short domains](/domains/)".
 
-## Stop Motion Animation
+## Stop motion animation
 I create stop motion Reels digitally and post the results to [my Instagram account](//instagram.com/xoizzyco/). I have two process videos: [one](https://www.instagram.com/p/CeFfSWhjOwR/) / [two](https://www.instagram.com/p/CeQG9uGDF2W/).
 
 ## Writing
