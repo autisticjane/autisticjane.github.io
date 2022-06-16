@@ -17,15 +17,16 @@
 	--accent-color:#ff87b3; /* pink */
 	--border-radius:50%;
 	--border-radius-small:.25rem;
-	--font-color:#fafafa;
+	--font-color:#333;
 	--font-family:'Poppins', sans-serif;
-	--font-highlight-color:yellow; /* <mark> text */
+	--font-highlight-color: #FBCB0A; /* <mark> text */
 	--font-line-height:1.8;
-	--link-color: #ff87b3;
+	--link-color: #C70A80;
 	--link-color-focus:#e94582;
 	--link-color-hover: #efeff9;
 	--link-background-color-hover: #8392ff;
 	--link-border-color-focus: #f9dce7;
+	--color-heading: #590696
 }
 
 *{
@@ -33,7 +34,7 @@
 }
 
 html{
-	background:#1d1727;
+	background:#fff;
 	color: var(--font-color);
 	font-family: var(--font-family);
 	font-weight:300
@@ -48,6 +49,18 @@ body{
 	padding:1rem
 }
 
+mark{
+	background-color:var(--font-highlight-color)
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	color:var(--color-heading)
+}
 h1,
 h2{
 	font-weight:700
