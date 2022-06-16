@@ -1,16 +1,10 @@
 :root{
 	--link-color: #C70A80;
-	--link-color-hover: #2f3daa;
+	--link-color-hover: #333;
 	--link-color-focus: #e94582;
-	--link-background-color-hover: #efeff9;
+	--link-background-color-hover: rgba(55, 226, 213,.5);
 	--link-background-color-focus: #eee;
 	--link-border-color-focus: #ffa0c4;
-	--text-highlight-color: #efeff9;
-}
-
-mark {
-    background-color: var(--link-background-color-hover-dark-mode);
-    color: var(--link-color-dark-mode-secondary);
 }
 
 a{
@@ -21,13 +15,12 @@ a{
 }
 
 a:hover{
-    background-color: var(--link-background-color-hover);
-    color: var(--link-color-hover);
-    text-decoration: none;
+	color: var(--link-color-hover);
+	text-decoration: none;
 }
 
 a:focus {
-    background-color: var(--link-background-color-focus);
-    color: var(--link-color-focus);
-    outline: 2px solid var(--link-border-color-focus);
+	background-color: var(--link-background-color-focus);
+	color: var(--link-color-focus);
+	outline: 2px solid var(--link-border-color-focus);
 }
