@@ -10,10 +10,6 @@ title: Jane Lively
 
 I'm Jane Lively, a freelance writer and neurodivergent content creator from Kaufman, TX. Also the "queen of [short domains](/domains/)".
 
-✨ I am an [autistic](//autisticjane.com/tag/autism/) [dissociative identity disorder](//autisticjane.com/tag/did/) with Tourette's, atypical anorexia, and mild agoraphobia. My content reflects this experience. My legal name is my **deadname**. All other names used by me are *valid* and *not* intended to escape or trick anyone.
-
-**Trauma victims are not villains.** DID is a beautiful thing, once you start learning about it.
-
 ## Web dev
 I have contributed open-source software to the online trading card community, to simplify processes for TCG owners. Additionally, I design for WordPress and create plugins for any custom functionality (shortcodes, taxonomies, email cloaking, etc.).
 
@@ -57,3 +53,7 @@ My primary beats are neurodiversity, blogging and SEO, and accessible environmen
 
 *Magic Core Learning* (2022)
 * [10 Things Teachers Need to Know About Autism](https://magicorelearning.com/2022/04/10-things-teachers-need-to-know-about-autism.html)
+
+<small>✨ I am an [autistic](//autisticjane.com/tag/autism/) [dissociative identity disorder](//autisticjane.com/tag/did/) system with Tourette's, atypical anorexia, and mild agoraphobia. My content reflects this experience. My legal name is my **deadname**. All other names used by me are *valid* and *not* intended to escape or trick anyone.</small>
+
+**Trauma victims are not villains.** DID is a beautiful thing, once you start learning about it.
