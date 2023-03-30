@@ -1,5 +1,5 @@
-title: "izzy.im"
-author: "Izzy Lively"
+title: "jane.fyi"
+author: "Jane Lively"
 # description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 timezone: America/Chicago
 permalink: pretty
@@ -10,13 +10,13 @@ collections:
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 # email: "example@mail.com"
-twitter_username: "thejanelively"
-github_username: "izzylively"
+twitter_username: "autisticjane"
+github_username: "autisticjane"
 linkedin_username: "janelively"
-#facebook_username: izzy.im
-instagram_username: "thejanelively"
+#facebook_username: "autisticjane"
+instagram_username: "autisticjane"
 pinterest_username: "thejanelively"
-tiktok_username: "izzylively"
+tiktok_username: "autisticjane"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
