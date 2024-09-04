@@ -4,7 +4,7 @@ title: Jane Lively
 ---
 # Jane Lively
 
-**github:** [autisticjane](https://github.com/autisticjane/)
+**github:** [autisticjane](https://github.com/autisticjane/)<br />
 **website:** [Lemon & Lively](https://lemonandlively.com/)
 
 ## Web dev
