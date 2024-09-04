@@ -5,7 +5,7 @@ title: Jane Lively
 # Jane Lively
 
 **github:** [autisticjane](https://github.com/autisticjane/)<br />
-**website:** [Lemon & Lively](https://lemonandlively.com/)
+**website:** [lemon & lively](https://lemonandlively.com/)
 
 ## Web dev
 I have contributed open-source software to the online trading card community, to simplify processes for TCG owners. Additionally, I design for WordPress and create plugins for any custom functionality (shortcodes, taxonomies, email cloaking, etc.).
