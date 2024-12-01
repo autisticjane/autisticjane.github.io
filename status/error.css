@@ -1,0 +1,152 @@
+@charset 'UTF-8';
+@import url('https://fonts.googleapis.com/css2?family=Palanquin:wght@200;600&display=swap');
+@font-face {
+    font-family: 'Cute Oscars';
+    src: url('fonts/cuteoscars-webfont.woff2') format('woff2'),
+         url('fonts/cuteoscars-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --border-radius: 0.25rem;
+    --font-family: Palanquin, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --font-family-heading: 'Cute Oscars', Palanquin, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --font-color: #111;
+    --font-color-dark-mode: #fafafa;
+    --font-line-height: 1.6;
+    --accent-color-light: #f9dce7;
+    --accent-color: #e94582;
+    --background-color-dark-mode: #1d1727;
+    --link-color-focus: #e94582;
+    --link-color-dark-mode: #ff87b3;
+    --link-color-hover-dark-mode: #8392ff;
+    --link-background-color-hover-dark-mode: #342a44;
+    --link-border-color-focus: #ffa0c4;
+    --link-border-color-focus-dark-mode: #f9dce7;
+    --link-background-color-focus-dark-mode: var(--link-background-color-hover-dark-mode);
+    --input-background-color: #efeff9;
+    --input-background-color-focus: rgba(255, 255, 255, 0.6);
+    --button-color: #2f3daa;
+    --button-color-dark-mode: #fafafa;
+    --button-color-hover-dark-mode: var(--accent-color-light);
+    --button-background-color-dark-mode: #342a44;
+    --button-background-color-hover: var(--accent-color-light);
+    --button-box-shadow-dark-mode: 2px 2px 0 0 #231c2d;
+    --button-box-shadow-hover: 2px 2px 0 0 #ff87b3;
+    --animation-duration: 0.2s;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    background-color: var(--background-color-dark-mode);
+    color: var(--font-color-dark-mode);
+    font-family: var(--font-family);
+    font-weight: 200;
+}
+
+body {
+    line-height: var(--font-line-height);
+    margin: 0;
+    font-size: 1.25rem;
+    padding: 4.5vw;
+}
+
+a {
+    color: var(--link-color-dark-mode);
+    font-weight: 600;
+    transition: background-color var(--animation-duration) ease-out;
+}
+
+a:hover {
+    background-color: var(--link-background-color-hover-dark-mode);
+    color: var(--link-color-hover-dark-mode);
+    text-decoration: none;
+}
+
+a:focus {
+    background-color: var(--link-background-color-focus-dark-mode);
+    box-shadow: 0 0 0 2px var(--link-border-color-focus-dark-mode);
+    outline: 0;
+    text-decoration: none;
+}
+
+h1 {
+    color: var(--accent-color);
+    font-family: var(--font-family-heading);
+    font-size: 2.25rem;
+    font-weight: normal;
+}
+
+.c-button {
+    background-color: var(--button-background-color-dark-mode);
+    border: none;
+    border-radius: var(--border-radius);
+    box-shadow: var(--button-box-shadow-dark-mode);
+    color: var(--button-color-dark-mode);
+    font-family: var(--font-family);
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    transition: background-color var(--animation-duration) ease,
+                box-shadow var(--animation-duration) ease-out;
+}
+
+.c-button:hover {
+    background-color: var(--button-background-color-hover);
+    color: var(--accent-color);
+    box-shadow: var(--button-box-shadow-hover);
+}
+
+.c-button:focus {
+    background-color: var(--button-background-color-hover);
+    color: var(--accent-color);
+    outline: 2px solid var(--link-border-color-focus);
+}
+
+.c-search-form {
+    display: flex;
+    margin-top: 3rem;
+    max-width: 35rem;
+}
+
+.c-search-form__input {
+    -webkit-appearance: none;
+    background-color: var(--input-background-color);
+    border: none;
+    border-radius: var(--border-radius) 0 0 var(--border-radius);
+    color: var(--link-color-focus);
+    display: block;
+    font: var(--font-family);
+    font-size: 1rem;
+    padding: 0.75rem 1rem;
+    width: min(100%, calc(100% - 8rem));
+}
+
+.c-search-form__input:focus {
+    color: var(--link-color-focus);
+    outline: 2px solid var(--link-border-color-focus);
+}
+
+.c-search-form__button {
+    border-radius: 0 var(--border-radius) var(--border-radius) 0;
+    min-width: 7rem;
+    padding: 0.75rem;
+}
+
+.u-visually-hidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
+}
